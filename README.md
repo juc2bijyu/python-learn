@@ -1,2 +1,4 @@
 # python-learn
-for python learning
+for python learning  
+pythonとgitとdocker from USデータサイエンティスト
+
